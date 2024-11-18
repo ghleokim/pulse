@@ -38,4 +38,4 @@ jobs:
         run: |
           git checkout master
           git rebase upstream/master
-          git push origin master --force
+          # git push origin master --force
